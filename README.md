@@ -67,6 +67,17 @@ node app.js
 
 O script fará o scraping, coletará os dados e enviará um e-mail com as informações formatadas.
 
+## 📸 Capturas de Tela
+
+<p align="center">
+  <img src="assets/image1.png" alt="Tela inicial" width="200"/>
+  <img src="frontend/assets/ex4.jpeg" alt="Tela mapa" width="200"/>
+  <img src="frontend/assets/ex1.jpeg" alt="Tela atualizar" width="200"/>
+  <img src="frontend/assets/ex2.jpeg" alt="Tela deletar 1" width="200"/>
+  <img src="frontend/assets/ex3.jpeg" alt="Tela deletar 2" width="200"/>
+</p>
+
+
 ## 👩‍💻 Desenvolvedora
 
 **Morgana Souza**
