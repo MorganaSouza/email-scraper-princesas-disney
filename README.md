@@ -71,10 +71,9 @@ O script fará o scraping, coletará os dados e enviará um e-mail com as inform
 
 <p align="center">
   <img src="assets/image1.png" alt="Tela inicial" width="200"/>
-  <img src="frontend/assets/ex4.jpeg" alt="Tela mapa" width="200"/>
-  <img src="frontend/assets/ex1.jpeg" alt="Tela atualizar" width="200"/>
-  <img src="frontend/assets/ex2.jpeg" alt="Tela deletar 1" width="200"/>
-  <img src="frontend/assets/ex3.jpeg" alt="Tela deletar 2" width="200"/>
+  <img src="assets/image2.png" alt="Tela inicial" width="200"/>
+  <img src="assets/image3.png" alt="Tela inicial" width="200"/>
+
 </p>
 
 
