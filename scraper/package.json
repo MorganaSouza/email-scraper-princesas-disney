@@ -1,0 +1,18 @@
+{
+  "name": "scraper-princesas",
+  "version": "1.0.0",
+  "description": "Scraper para extrair dados das princesas Disney e enviar por e-mail",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["scraper", "princesas", "disney", "email", "cheerio"],
+  "author": "Morgana Souza",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^2.6.7",
+    "nodemailer": "^6.9.8"
+  }
+}
