@@ -35,8 +35,8 @@ Ideal para quem deseja aprender sobre **web scraping, manipulação de HTML com 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/scraper-princesas-disney.git
-cd scraper-princesas-disney
+git clone https://github.com/MorganaSouza/email-scraper-princesas-disney.git
+cd email-scraper-princesas-disney
 ```
 
 ### 2. Instale as dependências
@@ -101,5 +101,3 @@ Follow the steps above in the Portuguese section.
 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-
