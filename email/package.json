@@ -6,8 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Morgana Souza",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "cheerio": "^1.0.0",
